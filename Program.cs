@@ -6,7 +6,7 @@ namespace Software_Development
     {
         static void Main(string[] args)
         {
-            Lesson1.Message();
+            Lesson2.LongPoem();
             Console.ReadLine();
         }
     }
