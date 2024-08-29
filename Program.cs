@@ -6,7 +6,8 @@ namespace Software_Development
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Lesson1.Message();
+            Console.ReadLine();
         }
     }
 }
