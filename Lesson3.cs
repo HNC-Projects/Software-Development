@@ -150,6 +150,7 @@ namespace Software_Development
 
             //Outputs postcode to console
             Console.WriteLine(postcode);
+
         }
     }
 }
