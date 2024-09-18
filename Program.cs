@@ -6,7 +6,7 @@ namespace Software_Development
     {
         static void Main(string[] args)
         {
-            Lesson5.HighestValue();
+            Lesson6.RandomNumber();
             Console.ReadLine();
         }
     }
